@@ -1,0 +1,16 @@
+
+@import "tailwindcss";
+
+@theme {
+  --color-mist: #EEF1F4;
+  --color-ink: #14213D;
+  --color-signal: #3A5BFF;
+
+  --font-sans: "Bricolage Grotesque", system-ui, sans-serif;
+}
+
+/* Hide the native cursor when the custom cursor is active. */
+html.cursor-hidden,
+html.cursor-hidden * {
+  cursor: none !important;
+}
