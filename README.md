@@ -2,7 +2,9 @@
 
 A single-page playground of live custom mouse cursors. Pick one, then hover, type and click to see how it reacts.
 
-Stack: Vite, React, TypeScript, Tailwind, framer-motion.
+**[Live Preview](https://smallcode160.github.io/Cursor-Lab/)**
+
+Stack: Vite, React, TypeScript, Tailwind CSS, Framer Motion.
 
 ```bash
 npm install
